@@ -40,8 +40,8 @@ nav .logo {
 }
 
 nav .logo img {
-  height: 75px;
-  width: 75px;
+  height: 90px;
+  width: 90px;
   border-radius: 50%;
 }
 
@@ -175,6 +175,12 @@ button:focus {
 .modal-form .form-input {
   padding: 8px;
   width: 100%;
+}
+
+.modal-form .submit-btn {
+  display: block;
+  margin: 0 auto;
+  font-size: 110%;
 }
 
 .close-btn {
